@@ -2,10 +2,10 @@
 
 ####
 versions:
-os: ubuntu/bionic64
-java: oracle-java8-installer
-kafka: kafka_2.12-2.1.0
-zookeeper: zookeeper-3.4.13
+* os: ubuntu/bionic64
+* java: oracle-java8-installer
+* kafka: kafka_2.12-2.1.0
+* zookeeper: zookeeper-3.4.13
 
 Change versions you can in Vagrantfile and start1.sh script
 ####
