@@ -16,5 +16,5 @@ All settings you can modified in Vagrantfile and start1.sh script.
 Read logs applications in VMs in:
 ```
 less /home/kafka/kafka/kafka.log
-less /usr/local/zookeeper/zookeeper.ou
+less /usr/local/zookeeper/zookeeper.out
 ```
