@@ -10,11 +10,11 @@ versions:
 Change versions you can in Vagrantfile and start1.sh script
 ####
 This Vagratfile create cluster from 5 VM, on 5 VMs install kafka and on 3 VMs install zookeeper.
-Zookeeper install on first 3 VM and create one cluster
-All settings you can modified in Vagrantfile and start1.sh script
+Zookeeper install on first 3 VM and create one cluster.
+All settings you can modified in Vagrantfile and start1.sh script.
 ####
 Read logs applications in VMs in:
+```
 less /home/kafka/kafka/kafka.log
 less /usr/local/zookeeper/zookeeper.ou
-####
-
+```
